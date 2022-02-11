@@ -1,0 +1,28 @@
+/* Carrousel principal de la web (categorías) */
+
+#carouselExampleInterval {
+    background-image: url("../img/fotosWeb/banners/fondo-banner.webp");
+    padding: 30px;
+}
+
+#carouselExampleInterval img {
+    height: 400px;
+    width: 400px;
+    display: block;
+    margin: 0px auto;
+}
+
+#carouselExampleInterval h1 {
+    text-align: center;
+    color: aliceblue;
+    border-bottom: 2px solid #ccc;
+    margin-bottom: 20px;
+}
+
+.info-item-carousel {
+    background-color: rgba(000, 000, 000, 0.7);
+    padding: 10px;
+    width: max-content;
+    margin: 0px auto;
+    border-radius: 10px;
+}

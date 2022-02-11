@@ -1,0 +1,32 @@
+/* Contenedor general del formulario */
+#ctnForm {
+    width: 500px;
+    margin: 30px auto;
+    border: 1px solid #ccc;
+    box-shadow: 0px 0px 5px #777;
+    padding: 20px
+}
+
+#ctnForm * {
+    margin-bottom: 10px;
+}
+
+#ctnForm form button {
+    width: 100%;
+}
+
+#ctnForm form p {
+    text-align: center
+}
+
+/* Formulario de pedidos */
+#gridForm {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 20px;
+}
+
+#formulario-pedidos h4 {
+    border-bottom: 1px solid #aaa;
+}
+

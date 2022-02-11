@@ -1,0 +1,16 @@
+/* Contenedor sección del usuario */
+#secUsuario {
+    width: max-content;
+    margin: 0px auto;
+}
+
+#secUsuario h1 {
+    text-align: center;
+}
+
+a:hover #span-cant-pedi {
+    background-color: #fff;
+    color: #6C7592;
+    padding: 2px;
+    border-radius: 3px;
+}
